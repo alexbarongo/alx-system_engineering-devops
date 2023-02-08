@@ -8,4 +8,7 @@ Task 2. There is no place like home
 -> this script changes directory to home directory
 
 Task 3. The long format 
--> this script shows the files of the directory in a long format 
+-> this script shows the files of the directory in a long format
+
+Task 4. Hidden files 
+-> this script shows all files including the hidden files in there long format
