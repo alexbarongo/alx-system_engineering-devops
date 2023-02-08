@@ -6,3 +6,6 @@ Task 1. What’s in there?
 
 Task 2. There is no place like home
 -> this script changes directory to home directory
+
+Task 3. The long format 
+-> this script shows the files of the directory in a long format 
