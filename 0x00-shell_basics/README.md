@@ -14,4 +14,7 @@ Task 4. Hidden files
 -> this script shows all files including the hidden files in their long format
 
 Task 5. I love numbers
--> this script showa all files in cluding hidden files in their long format but id and group are in digits instead of names
+-> this script shows all files in cluding hidden files in their long format but id and group are in digits instead of names
+
+Task 6. Welcome
+-> this script creates a new directoery in a /temp directory 
