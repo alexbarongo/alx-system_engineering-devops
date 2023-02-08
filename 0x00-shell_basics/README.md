@@ -21,3 +21,6 @@ Task 6. Welcome
 
 Task 7. Betty in my first directory
 -> this script is moving a betty file to /tmp/my_first_directory
+
+Task 8. Bye bye Betty
+-> this script is deleting the betty file
