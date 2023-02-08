@@ -17,4 +17,7 @@ Task 5. I love numbers
 -> this script shows all files in cluding hidden files in their long format but id and group are in digits instead of names
 
 Task 6. Welcome
--> this script creates a new directoery in a /temp directory 
+-> this script creates a new directoery in a /temp directory
+
+Task 7. Betty in my first directory
+-> this script is moving a betty file to /tmp/my_first_directory
