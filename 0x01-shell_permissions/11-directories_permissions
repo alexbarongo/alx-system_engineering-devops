@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u+x,g+x,o+x find . 
+chmod u+x,g+x,o+x find . 
